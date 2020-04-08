@@ -1,5 +1,6 @@
 # Exercícios realizados
 
+
 Divididos em:
 - Iniciantes
 - Estrutura de dados
