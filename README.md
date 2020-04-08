@@ -8,4 +8,4 @@ Divididos em:
 
 Filipe Augusto de Souza :copyright:
 
-[filipeaugustogxp@gmail.com](mailto:filipeaugustogxp@gmail.com)
+:email:[filipeaugustogxp@gmail.com](mailto:filipeaugustogxp@gmail.com)
