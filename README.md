@@ -1,2 +1,9 @@
-# URI
-Repositório dos exercícios realizados no URI
+# Exercícios realizados
+
+Divididos em:
+- Iniciantes
+- Estrutura de dados
+- SQL
+
+Filipe Augusto de Souza :copyright:
+[filipeaugustogxp@gmail.com](mailto:filipeaugustogxp@gmail.com)
