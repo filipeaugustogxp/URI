@@ -6,4 +6,5 @@ Divididos em:
 - SQL
 
 Filipe Augusto de Souza :copyright:
+
 [filipeaugustogxp@gmail.com](mailto:filipeaugustogxp@gmail.com)
