@@ -1,4 +1,4 @@
-#Exercício 1001
+# Exercício 1001
 
 A = int(input())
 B = int(input())
