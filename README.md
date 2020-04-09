@@ -19,4 +19,4 @@ O URI Online Judge contém mais de 1000 problemas divididos em 9 grandes categor
 ## Autor.
 As resoluções dos exercícios postados neste repositório foram realizados por Filipe Augusto de Souza, discente do curso de Ciência da Computação na instituição Centro Universitário da Fundação Educacional Guaxupé (UNIFEG).  :copyright:
 
-E-mail: [filipeaugustogxp@gmail.com](mailto:filipeaugustogxp@gmail.com) | Facebook: [Filipe Augusto](https://www.facebook.com/filipeaugustogxp)
+E-mail: [filipeaugustogxp@gmail.com](mailto:filipeaugustogxp@gmail.com) | Facebook: [Filipe Augusto](https://www.facebook.com/filipeaugustogxp) | Telefone: [(35) 98816-6099]()
